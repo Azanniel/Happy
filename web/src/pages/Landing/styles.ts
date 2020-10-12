@@ -41,7 +41,6 @@ const Title = styled.h1`
   font-size: 76px;
   font-weight: 900;
   line-height: 70px;
-  padding-bottom: 90px;
 `;
 
 const Subtitle = styled.p`
