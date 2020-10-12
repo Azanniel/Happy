@@ -9,6 +9,7 @@ const Container = styled.div`
   align-items: center;
   width: 100vw;
   height: 100vh;
+  padding: 45px;
   background: linear-gradient(329.54deg, #29B6D1 0%, #00C7C7 100%);
 `;
 
@@ -27,6 +28,7 @@ const ContentWrapper = styled.div`
   justify-content: space-between;
 
   background: url(${landingImage}) no-repeat 80% center;
+  background-size: contain;
 `;
 
 const Image = styled.img``;
