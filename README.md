@@ -15,10 +15,8 @@
 ## 💻 Web
 
 <div align="center">
-  <img src="./.github/preview-web.png" style="border-radius: 4px;" />
+  <img src="./.github/preview-web.png" />
 </div>
-
-<br>
 
 ### 🧐 Sobre
 
@@ -50,6 +48,22 @@ Frontend Web construíndo usando as seguintes tecnologias e ferramentas:
 
   Após isso acesse: http://localhost:3000
 </details>
+
+## 🎉 Agradecimentos
+
+Meu agradecimento especial à todos que puderam ajudar-me à alavancar meus conhecimentos, sempre manter-me atualizado com as novas tecnologias e subir para o próximo nível
+
+<a href="https://github.com/Rocketseat">
+  <img src="https://avatars0.githubusercontent.com/u/28929274?s=200&v=4" width="50px" />
+</a>
+
+<a href="https://github.com/rocketseat-education">
+  <img src="https://avatars3.githubusercontent.com/u/69590972?s=200&v=4" width="50px" />
+</a>
+
+<a href="https://github.com/diego3g">
+  <img src="https://avatars2.githubusercontent.com/u/2254731?s=400&u=0ba16a79456c2f250e7579cb388fa18c5c2d7d65&v=4" width="50px" />
+</a>
 
 ## 📖 Licença
 
