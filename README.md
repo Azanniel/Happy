@@ -83,7 +83,7 @@ O Backend foi construído usando as seguintes tecnologias e ferramentas:
 
   Para importar as rotas para o insomnia basta clicar no botão abaixo ou fazer o download do .json na pasta .github
 
-  [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=HappyApi&uri=)
+  [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=HappyApi&uri=https%3A%2F%2Fraw.githubusercontent.com%2FAzanniel%2FHappy%2Fmaster%2F.github%2FInsomnia_happy.json)
 
 </details>
 
