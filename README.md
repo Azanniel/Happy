@@ -6,6 +6,10 @@
   <a href="./LICENSE.md">
     <img src="https://img.shields.io/badge/LICENSE-MIT-%230fc1cb?style=for-the-badge" alt="LICENSE" />
   </a>
+  
+  <a href="https://app.rocketseat.com.br/me/azanniel">
+    <img src="https://img.shields.io/badge/Rocketseat-Azanniel-%230fc1cb?style=for-the-badge" alt="Rocketseat-profile" />
+  </a>
 
   > 💜 Projeto desenvolvido na NLW#3 voltado para conectar pessoas que queiram visitar crianças em orfanatos e levar feliciadade a elas 🚀
 </div>
