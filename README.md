@@ -11,14 +11,12 @@
 </div>
 
 <hr>
+  <div align="center">
+    <img src="./.github/preview.png" />
+  </div>
+<hr>
 
 ## 💻 Web
-
-<div align="center">
-  <img src="./.github/preview-web.png" />
-</div>
-
-### 🧐 Sobre
 
 Frontend Web construíndo usando as seguintes tecnologias e ferramentas:
 - **[React](https://pt-br.reactjs.org/)**
@@ -47,6 +45,46 @@ Frontend Web construíndo usando as seguintes tecnologias e ferramentas:
   ⚠️ Obs.: Caso esteja com o backend certifique-se de que ele esteja em execução
 
   Após isso acesse: http://localhost:3000
+</details>
+
+## 🏭 Backend
+
+O Backend foi construído usando as seguintes tecnologias e ferramentas:
+- **[Typescript](https://www.typescriptlang.org/)**
+- **[Nodejs](https://nodejs.org/en/)**
+- **[Express](https://expressjs.com/pt-br/)**
+- **[Yup](https://github.com/jquense/yup)**
+- **[SQLite3](https://www.npmjs.com/package/sqlite3)**
+- **[Typeorm](https://typeorm.io/)**
+- **[Eslint](https://eslint.org/)**
+
+<details>
+  <Summary>Mais detalhes</Summary>
+
+  #### 👷 Como Executar localmente
+
+  ```bash
+    # Vá para pasta backend
+    cd Happy/backend
+
+    # Instale as dependências
+    npm install
+
+    # Execute as migrations
+    npm run migrate:run
+
+    # Coloque o servidor para iniciar em modo dev
+    npm run dev
+  ```
+
+  Após esses passos a API estará disponível no endereço http://localhost:3333
+
+  #### 🌀 Como importar as rotas para o insomnia
+
+  Para importar as rotas para o insomnia basta clicar no botão abaixo ou fazer o download do .json na pasta .github
+
+  [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=HappyApi&uri=)
+
 </details>
 
 ## 🎉 Agradecimentos
