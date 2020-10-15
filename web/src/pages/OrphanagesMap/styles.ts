@@ -73,10 +73,21 @@ const State = styled.strong`
 
 const City = styled.span``;
 
+const GoToOrphanage = styled(Link)`
+  width: 40px;
+  height: 40px;
+  background: #15c3d6;
+  box-shadow: 17px 27px 41px rgba(23, 142, 166, 0.16);
+  border-radius: 12px;
 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+`;
 
 export {
   Container, SideBar, CreateOrphanages,
   SideBarHeader, Image, Title, Subtitle,
-  SideBarFooter, State, City
+  SideBarFooter, State, City,
+  GoToOrphanage
 };
