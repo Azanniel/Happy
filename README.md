@@ -33,6 +33,12 @@ Frontend Web construíndo usando as seguintes tecnologias e ferramentas:
 <details>
   <Summary>Mais detalhes</Summary>
 
+  #### 🏡 Requisitos
+
+  1. Certifique-se de adicionar ao arquivo **.env** o token do MAPBOX que é feito no site do mesmo
+
+  2. Tenha o backend rodando em background e certifique-se que o arquivo `web/src/services/api.ts` esteja referenciando o mesmo
+
   #### 👷 Como Executar localmente
 
   ```bash
