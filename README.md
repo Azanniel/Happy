@@ -57,6 +57,38 @@ Frontend Web construíndo usando as seguintes tecnologias e ferramentas:
   Após isso acesse: http://localhost:3000
 </details>
 
+## 📱 Mobile
+
+Frontend Mobile construíndo usando as seguintes tecnologias e ferramentas:
+- **[React Native](https://reactnative.dev/)**
+- **[Expo](https://expo.io/)**
+- **[Typescript](https://www.typescriptlang.org/)**
+- **[Styled Components](https://styled-components.com/)**
+
+
+<details>
+  <Summary>Mais detalhes</Summary>
+
+  #### 🏡 Requisitos
+
+  1. Certifique-se que o expo-cli esteja instalado na sua máquina, caso não utilize `npm i -g expo-cli`;
+
+  2. Para uso das requisições e busca na API certifique-se que o backend esteja em execução e que esteja utilizando o IP da máquina e não a nomenclatura **localhost**.
+
+  #### 👷 Como Executar localmente
+
+  ```bash
+    # Vá para pasta mobile
+    cd Happy/mobile
+
+    # Instale as dependências
+    npm install
+
+    # Execute a aplicação onde abrirá o DevTools para executar no dispositivo ou no emulador
+    npm start
+  ```
+</details>
+
 ## 🏭 Backend
 
 O Backend foi construído usando as seguintes tecnologias e ferramentas:
